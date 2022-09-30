@@ -1,0 +1,33 @@
+.monaco-pane-view .pane>.pane-header {
+    height: 30px;
+}
+
+/* editor tabs */
+.monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab {
+    height: 30px;
+}
+
+.monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab .tab-label {
+    line-height: 30px;
+}
+
+.monaco-workbench .part.editor>.content .editor-group-container>.title .monaco-icon-label:before {
+    height: 30px;
+}
+
+.monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container {
+    height: 30px;
+}
+
+.monaco-workbench .part.editor>.content .editor-group-container>.title .editor-actions {
+    height: 30px;
+}
+
+.monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab .tab-label a, .monaco-workbench .part.editor>.content .editor-group-container>.title .title-label a {
+    font-size: 12px;
+}
+
+/* explorer items */
+.monaco-list-row .monaco-icon-label>.monaco-icon-label-container {
+    font-size: 12px;
+}
