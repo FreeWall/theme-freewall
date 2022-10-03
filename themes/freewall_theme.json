@@ -11,6 +11,7 @@
 		"editor.findMatchBackground": "#C0AA6C",
 		"editor.findRangeHighlightBackground": "#C0AA6C",
 		"editor.findMatchHighlightBackground": "#C0AA6C",
+		"editorRuler.foreground": "#3e3e3e",
 		"list.dropBackground": "#383B3D",
 		"activityBar.background": "#3C3F41",
 		"activityBar.foreground": "#ffffff",
