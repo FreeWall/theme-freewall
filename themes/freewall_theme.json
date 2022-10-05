@@ -39,7 +39,10 @@
 		"titleBar.inactiveBackground": "#3C3F41",
 		"titleBar.border": "#2E2E2E",
 		"pickerGroup.foreground": "#b0b0b0",
-		"terminal.ansiWhite": "#ffffff"
+		"terminal.ansiWhite": "#ffffff",
+		"gitDecoration.modifiedResourceForeground": "#80CBC4",
+		"gitDecoration.untrackedResourceForeground": "#c3e887",
+		"gitDecoration.addedResourceForeground": "#c3e887"
 	},
 	"tokenColors": [
 		/*{
