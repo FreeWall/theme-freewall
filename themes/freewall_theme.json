@@ -17,6 +17,7 @@
 		"minimap.warningHighlight": "#00000000", //disable
 		"minimap.errorHighlight": "#00000000", //disable
 		"minimap.findMatchHighlight": "#00000000", //disable
+		"minimap.selectionOccurrenceHighlight": "#00000000", //disable
 		"editorOverviewRuler.findMatchForeground": "#2ACDFF",
 		"editorRuler.foreground": "#3e3e3e",
 		"list.dropBackground": "#383B3D",
