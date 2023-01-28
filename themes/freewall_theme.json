@@ -220,13 +220,13 @@
 		{
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#e05862"
+				"foreground": "#f25f6a"
 			}
 		},
 		{
 			"scope": "entity.name.tag.css",
 			"settings": {
-				"foreground": "#e05862"
+				"foreground": "#f25f6a"
 			}
 		},
 		{
