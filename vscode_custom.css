@@ -1,7 +1,3 @@
-.monaco-pane-view .pane>.pane-header {
-    height: 30px;
-}
-
 /* editor tabs */
 .monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab {
     height: 30px;
