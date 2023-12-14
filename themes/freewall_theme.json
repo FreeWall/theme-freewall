@@ -108,7 +108,6 @@
 			"name": "Types declaration and references",
 			"scope": [
 				"meta.return-type",
-				"support.type",
 				"storage.type.cs",
 				"storage.type.generic.cs",
 				"storage.type.modifier.cs",
