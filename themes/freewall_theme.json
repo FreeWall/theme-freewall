@@ -50,7 +50,8 @@
 		"terminal.ansiWhite": "#ffffff",
 		"gitDecoration.modifiedResourceForeground": "#80CBC4",
 		"gitDecoration.untrackedResourceForeground": "#c3e887",
-		"gitDecoration.addedResourceForeground": "#c3e887"
+		"gitDecoration.addedResourceForeground": "#c3e887",
+		"charts.orange": "#d18616"
 	},
 	"semanticHighlighting": true,
 	"tokenColors": [
@@ -181,12 +182,6 @@
 			],
 			"settings": {
 				"foreground": "#66D9EF"
-			}
-		},
-		{
-			"settings": {
-				"foreground": "#cee4f1",
-				"background": "#1E1E1E"
 			}
 		},
 		{
